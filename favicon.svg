@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#2c3e50" rx="4"/>
+  
+  <!-- Grid lines -->
+  <line x1="11" y1="6" x2="11" y2="26" stroke="#ecf0f1" stroke-width="1.5"/>
+  <line x1="21" y1="6" x2="21" y2="26" stroke="#ecf0f1" stroke-width="1.5"/>
+  <line x1="6" y1="11" x2="26" y2="11" stroke="#ecf0f1" stroke-width="1.5"/>
+  <line x1="6" y1="21" x2="26" y2="21" stroke="#ecf0f1" stroke-width="1.5"/>
+  
+  <!-- X symbol -->
+  <g stroke="#e74c3c" stroke-width="2" stroke-linecap="round">
+    <line x1="7.5" y1="7.5" x2="9.5" y2="9.5"/>
+    <line x1="9.5" y1="7.5" x2="7.5" y2="9.5"/>
+  </g>
+  
+  <!-- O symbol -->
+  <circle cx="16" cy="8.5" r="1.2" fill="none" stroke="#3498db" stroke-width="1.8"/>
+  
+  <!-- Another X -->
+  <g stroke="#e74c3c" stroke-width="2" stroke-linecap="round">
+    <line x1="22.5" y1="22.5" x2="24.5" y2="24.5"/>
+    <line x1="24.5" y1="22.5" x2="22.5" y2="24.5"/>
+  </g>
+</svg>
